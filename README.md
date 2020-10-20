@@ -4,6 +4,8 @@ There are two major modules in this initiative.
 
  1)Speech recognition module
  2)Raspberry pi module
-![system_arch](images\system_architecture.png)
+ 
+ 
+![system_arch](https://github.com/lionelrodrigues/Women_safety_devicce_IOT/blob/main/images/system_architecture.png)
 
  

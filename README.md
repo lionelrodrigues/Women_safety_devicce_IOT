@@ -8,4 +8,10 @@ There are two major modules in this initiative.
  
 ![system_arch](https://github.com/lionelrodrigues/Women_safety_devicce_IOT/blob/main/images/system_architecture.png)
 
+Implementation
+
+Case 1:
+
+![case1](https://github.com/lionelrodrigues/Women_safety_devicce_IOT/blob/main/images/implementation_case_1.png=700*400)
+
  

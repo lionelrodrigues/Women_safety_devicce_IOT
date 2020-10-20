@@ -12,6 +12,6 @@ Implementation
 
 Case 1:
 
-![case1](https://github.com/lionelrodrigues/Women_safety_devicce_IOT/blob/main/images/implementation_case_1.png=700*400)
+![case1](https://github.com/lionelrodrigues/Women_safety_devicce_IOT/blob/main/images/implementation_case_1.png){width:700;}
 
  

@@ -11,7 +11,14 @@ There are two major modules in this initiative.
 Implementation
 
 Case 1:
+![case1](https://github.com/lionelrodrigues/Women_safety_devicce_IOT/blob/main/images/implementation_case_1.png)
 
-![case1](https://github.com/lionelrodrigues/Women_safety_devicce_IOT/blob/main/images/implementation_case_1.png){width:700;}
+
+case 2:
+![case2](https://github.com/lionelrodrigues/Women_safety_devicce_IOT/blob/main/images/Implementation_case_2.png)
+
+case 3:
+![case2](https://github.com/lionelrodrigues/Women_safety_devicce_IOT/blob/main/images/implementation_case_3.png)
+
 
  
